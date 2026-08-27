@@ -8,7 +8,7 @@ title: 5. Incertidumbre del futuro
 
 - **Salud Mental en Mujeres Embarazadas y COVID-19: Un Estudio Comparativo** 🇪🇸 — *Psykhe*, Pontificia Universidad Católica de Chile (2024).
   Compara síntomas de ansiedad/depresión entre mujeres que gestaron antes y durante la pandemia; señala la incertidumbre sobre la salud como variable que afecta negativamente el bienestar.
-  <https://doi.org/10.7764/psykhe.2021.39387>
+  <https://ojs.uc.cl/index.php/psykhe/article/view/39387>
 
 - **Impacto del confinamiento por Covid-19 en la salud mental y emocional en la población gestante** 🇪🇸 — Revista Matronas / SciELO España (2021).
   Estudio con datos cuantitativos sobre el nivel de preocupación de las gestantes y cómo la incertidumbre actuó como moderador de la ansiedad.
