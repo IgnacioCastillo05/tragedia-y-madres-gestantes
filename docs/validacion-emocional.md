@@ -30,4 +30,4 @@ Afectación psicosocial y culpa de los vivos ("survivor guilt").
 
 - **Survivor Guilt of a Pregnant Obstetrician** 🇬🇧 — *Obstetrics & Gynecology* (2019).
   Relato clínico en primera persona sobre la culpa del sobreviviente vivida por una mujer embarazada; útil como ejemplo directo del cruce embarazo + culpa del sobreviviente.
-  DOI: 10.1097/AOG.0000000000003418
+  <https://journals.lww.com/greenjournal/abstract/10.1097/aog.0000000000003418~survivor-guilt-of-a-pregnant-obstetrician?redirectionsource=fulltextview>
