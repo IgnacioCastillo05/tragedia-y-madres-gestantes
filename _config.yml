@@ -1,0 +1,15 @@
+title: Tragedia y Madres Gestantes
+description: Bibliografía sobre el impacto de tragedias y emergencias en madres gestantes y lactantes
+baseurl: "/tragedia-y-madres-gestantes"
+url: "https://ignaciocastillo05.github.io"
+
+wiki_label: "Tragedia y Madres Gestantes"
+github_username: IgnacioCastillo05
+
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
