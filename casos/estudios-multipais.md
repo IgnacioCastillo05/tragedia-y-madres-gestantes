@@ -12,4 +12,4 @@ title: Estudios multipaís
 
 - **Mental Disorders of Pregnant and Postpartum Women After Earthquakes: A Systematic Review** 🇬🇧 — *Disaster Medicine and Public Health Preparedness* (2014).
   Revisión de 8 estudios sobre depresión y TEPT en mujeres gestantes/posparto tras distintos terremotos en el mundo.
-  Cambridge Core.
+  <https://pubmed.ncbi.nlm.nih.gov/25098648/>

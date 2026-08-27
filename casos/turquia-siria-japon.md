@@ -12,7 +12,7 @@ title: Turquía-Siria y Japón
 
 - **Experience of Breastfeeding Mothers During the Earthquake of the Century: A Qualitative Study** 🇬🇧 — *Disaster Medicine and Public Health Preparedness* (2025).
   Estudio cualitativo sobre dificultades emocionales y de lactancia de madres tras el terremoto Turquía-Siria (2023): shock, miedo, rechazo del pecho, disminución de producción de leche.
-  Cambridge Core.
+  <https://pubmed.ncbi.nlm.nih.gov/40536007/>
 
 - **Concerns of earthquake survivor mothers for their children and the role of school leadership in addressing them** 🇬🇧 — *Frontiers in Public Health* (2025).
   Estudio cualitativo con 20 madres sobrevivientes de terremoto (Turquía) sobre cómo cambiaron sus preocupaciones por sus hijos pequeños y qué apoyo dieron los colegios. Ver ítem completo en [Acompañamiento infantil]({{ '/docs/acompanamiento-infantil/' | relative_url }}).

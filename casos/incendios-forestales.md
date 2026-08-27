@@ -16,4 +16,4 @@ title: EE. UU. y Canadá — Incendios
 
 - **Depression, Anxiety, and PTSD Among Southern California Residents After the January 2025 Los Angeles Wildfires** 🇬🇧 — *Disaster Medicine and Public Health Preparedness* (2025).
   Muy reciente; mide salud mental tras los incendios de Los Ángeles de enero 2025, comparando evacuados y no evacuados.
-  Cambridge Core, DOI en el artículo.
+  <https://pubmed.ncbi.nlm.nih.gov/41292207/>

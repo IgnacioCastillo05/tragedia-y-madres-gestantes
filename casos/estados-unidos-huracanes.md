@@ -20,7 +20,7 @@ title: Estados Unidos — Huracanes
 
 - **Maternal mental health mediates the effect of prenatal stress on infant temperament: The Harvey Mom Study** 🇬🇧 — *Development and Psychopathology* (2023).
   Estudio longitudinal con 527 mujeres embarazadas durante el huracán Harvey (Houston, 2017) y su impacto en el temperamento infantil posterior.
-  <https://doi.org/10.1017/S0954579422000556> (Cambridge Core)
+  <https://pubmed.ncbi.nlm.nih.gov/37078447/> (Cambridge Core)
 
 - **Social Vulnerability and Perinatal Risk: Demographic Determinants of the Impact of a Natural Disaster on Pregnant Women** 🇬🇧 — PMC (2024/2025).
   Sobre Harvey: muestra que el impacto fue mayor en gestantes de comunidades marginadas (menor acceso a servicios de maternidad, mayor dificultad financiera).
