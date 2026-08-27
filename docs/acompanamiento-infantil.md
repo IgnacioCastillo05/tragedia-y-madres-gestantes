@@ -16,7 +16,7 @@ title: 3. Acompañamiento infantil
 
 - **Repercusión psicológica de los desastres en niños y adolescentes** 🇪🇸 — SciELO Cuba (2021).
   Explica cómo las reacciones varían según la edad y la capacidad de comprensión del niño, y cómo evolucionan los síntomas en el corto, mediano y largo plazo.
-  <http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2709-79272021000200328>
+  <https://revactamedicacentro.sld.cu/index.php/amc/article/view/1447/0>
 
 - **Modelos de intervención psicosocial en situaciones de desastre por fenómeno natural** 🇪🇸 — Revista de Psicología, Universidad de Antioquia (2012).
   Mapea distintos modelos de intervención psicosocial (comunitarios, por niveles) aplicados en desastres en Latinoamérica.
